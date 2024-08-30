@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iteratit.github.io/sitemap.html.gz
+Sitemap: https://iteratit.github.io/app/sitemap.html.gz
+Sitemap: https://iteratit.github.io/assets/sitemap.html.gz
+Sitemap: https://iteratit.github.io/css/sitemap.html.gz
+Sitemap: https://iteratit.github.io/includes/sitemap.html.gz
+Sitemap: https://iteratit.github.io/item/sitemap.html.gz
+Sitemap: https://iteratit.github.io/src/sitemap.html.gz
